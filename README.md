@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **navtejsnair@gmail.com**
 
-- 📄 Know about my experiences [https://jade-karmen-79.tiiny.site/](https://jade-karmen-79.tiiny.site/)
+- 📄 Know about my experiences [https://scarlet-doralynne-48.tiiny.site]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
