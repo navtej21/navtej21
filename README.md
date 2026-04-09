@@ -28,7 +28,7 @@
 
 ## 🔥 Featured Project
 ### 🚀 Event Management System (Backend)
-- Microservices-based architecture  
+- Monolith Architecture
 - JWT Authentication  
 - API Gateway + Rate Limiting  
 - Dockerized services  
