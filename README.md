@@ -37,9 +37,9 @@ A Devin/Cursor-style autonomous coding agent built from scratch — full agentic
 A metadata-driven migration framework on Microsoft Fabric automating ingestion from 4+ heterogeneous source systems into a governed Bronze/Silver architecture, with incremental logic (SCD Type 1/2) validated against production-scale datasets.
 `Microsoft Fabric` `PySpark` `Delta Lake` `T-SQL`
 
-### ♟️ Multiplayer Chess Platform *(in progress)*
-Real-time multiplayer chess — WebSocket-based game server, server-authoritative move validation, stateful crash recovery, and horizontal scaling via sharding + Redis Pub/Sub fan-out for high-traffic rooms.
-`Java` `Spring Boot` `WebSockets` `Redis`
+### 💻 CodeRun — Real-Time Collaborative Code Editor *(in progress)*
+A CodeShare.io-style collaborative editor that adds what the original lacks entirely: live code execution. Room-based WebSocket broadcast for multi-user editing, sandboxed Docker execution reused from Online GDB, with debounced auto-run and live test-case pass/fail as differentiators over existing tools.
+`Java` `Spring Boot` `React` `Docker` `WebSockets`
 
 ### ⚡ Concurrent Request Filtering & DDoS Simulation
 Multithreaded request-processing system with IP-based rate limiting, sustaining 5,000+ req/sec across 50 simulated clients while blocking 90%+ of malicious traffic within 1 second, zero false positives.
